@@ -18,8 +18,8 @@
 
 ### Links
 
-- Solution URL:(https://github.com/HaseebaAlhaddi/Frontend-Mentor-Social-proof-section)
-- Live Site URL:(https://haseebaalhaddi.github.io/Frontend-Mentor-Social-proof-section/)
+- Solution URL:(https://github.com/HaseebaAlhaddi/Frontend-Mentor-Single-price-grid-component)
+- Live Site URL:(https://haseebaalhaddi.github.io/Frontend-Mentor-Single-price-grid-component/)
 
 ## My process
 
